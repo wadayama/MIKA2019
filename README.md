@@ -20,7 +20,7 @@ Repository for MIKA2019
 * ProjectedGradient: 学習型射影勾配法のサンプルコード
 * autoencoder: 自己符号化器(オートエンコーダ)を利用して、通信路系全体を学習する。
 * distributed: 分散学習に関するサンプルコード
-* fftista: 学習可能ISTAによるOFDM-QPSKの復調 (このコードはGoogle Colabで実行できません)
+* fftista: 学習可能ISTAによる(simplified)OFDM-8PSKの復調 (このコードはGoogle Colabで実行できません)
 * powercontrol: 最適化模擬のサンプルコード（電力制御に関する幾何計画問題) 
 * quadratic: 深層展開の勾配法への適用(2次関数)
 * gdbf: (付録) Noisy GDBF復号器のPyTorch実装(このコードはGoogle Colabで実行できません)
