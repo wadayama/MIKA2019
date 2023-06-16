@@ -6,6 +6,7 @@ Repository for MIKA2019
 
 Update news:
 * 2019/10/24 MIKA2019チュートリアルで利用したスライドを掲載しました。
+* 2023/06/16 2023年6月22日に発刊(森北出版)より「モデルベース深層学習と深層展開」 が発刊されます．出版社URL: https://www.morikita.co.jp/books/mid/085731
 
 このレポジトリにはMIKA2019におけるチュートリアル講演
 「無線通信のための深層学習の基礎」(和田山）で紹介するPyTorchコード類(Jupyter Notebook)などを置いています。
